@@ -3,14 +3,14 @@ import "./Weather.css";
 
 export default function Weather() {
   return (
-    <div ClassName="Weather">
+    <div className="Weather">
       <form>
         <div className="row">
           <div className="col-9">
             <input
               type="search"
               placeholder="Enter a City..."
-              ClassName="form-control"
+              className="form-control"
             />
           </div>
           <div className="col-3">
@@ -23,7 +23,7 @@ export default function Weather() {
         <li>Wednesday 07:00</li>
         <li>Sunny</li>
       </ul>
-      <div classNam="row">
+      <div className="row">
         <div className="col-6">
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/sunny.png"
