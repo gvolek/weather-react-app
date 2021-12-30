@@ -16,6 +16,15 @@ export default function App() {
           >
             {" "}
             GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://app.netlify.com/sites/sharp-darwin-12edea/overview"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            Netlify.
           </a>
         </footer>
       </div>
